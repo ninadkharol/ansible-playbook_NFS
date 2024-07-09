@@ -7,6 +7,6 @@ share_directory_path_server: "/opt/nfs-share"
 
 share_directory_path_client: "/opt/nfs-share-client"
 
-exports_mount_IP: "192.168.150.140" # or NFS_CLIENT_IP
+exports_mount_IP: "192.168.150.141" # or NFS_CLIENT_IP
 
 NFS_SERVER_IP: "192.168.150.140"
